@@ -71,6 +71,7 @@ cd open-closed-loop-controller
 conda create -n open-closed-loop python=3.10
 conda activate open-closed-loop
 pip install matplotlib
+cd src
 ```
 
 ## Usage
